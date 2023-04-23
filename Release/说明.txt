@@ -1,0 +1,5 @@
+BstTree可以选择从BstTree.txt中获取数据，数据样例放在BstTreeData.txt中，可以复制直接用。
+Heap可以选择从Heap.txt中获取数据，数据样例放在HeapData.txt中，可以复制直接用。
+
+平衡二叉树之前实现过，不实现了。
+红黑树没时间实现了。
